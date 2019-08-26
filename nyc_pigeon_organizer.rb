@@ -5,32 +5,32 @@ def nyc_pigeon_organizer(data)
           :gender => ,
           :lives => 
         },
-         "Alex" => {
+         "Theo" => {
           :color => ,
           :gender => ,
           :lives => 
         },
-         "Alex" => {
+         "Peter Jr." => {
           :color => ,
           :gender => ,
           :lives => 
         }, 
-          "Alex" => {
+          "Andrew" => {
           :color => ,
           :gender => ,
           :lives => 
         }, 
-         "Alex" => {
+         "Lucky" => {
           :color => ,
           :gender => ,
           :lives => 
         }, 
-         "Alex" => {
+         "Queenie" => {
           :color => ,
           :gender => ,
           :lives => 
         }, 
-         "Alex" => {
+         "Ms. K" => {
           :color => ,
           :gender => ,
           :lives => 
