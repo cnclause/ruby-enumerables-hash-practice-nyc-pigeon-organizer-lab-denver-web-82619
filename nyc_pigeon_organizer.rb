@@ -1,4 +1,4 @@
-def nyc_pigeon_organizer(pigeon_data)
+def nyc_pigeon_organizer(data)
       pigeon_data = {
         "Alex" => {
           :color =>["white", "brown"],
