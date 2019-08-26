@@ -11,9 +11,9 @@ def nyc_pigeon_organizer(data)
           :lives => "Subway"
         },
          "Peter Jr." => {
-          :color => ,
-          :gender => ,
-          :lives => 
+          :color => ["purple", "grey"],
+          :gender => "male",
+          :lives => "Library"
         }, 
           "Andrew" => {
           :color => ,
