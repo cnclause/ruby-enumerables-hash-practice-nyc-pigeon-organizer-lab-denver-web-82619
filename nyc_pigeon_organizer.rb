@@ -14,5 +14,25 @@ def nyc_pigeon_organizer(data)
           :color => ,
           :gender => ,
           :lives => 
+        }, 
+          "Alex" => {
+          :color => ,
+          :gender => ,
+          :lives => 
+        }, 
+         "Alex" => {
+          :color => ,
+          :gender => ,
+          :lives => 
+        }, 
+         "Alex" => {
+          :color => ,
+          :gender => ,
+          :lives => 
+        }, 
+         "Alex" => {
+          :color => ,
+          :gender => ,
+          :lives => 
         },
 end
